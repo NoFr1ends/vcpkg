@@ -1,0 +1,4 @@
+Source: ulfius
+Version: 2.6.6
+Description: Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language. Can stream large amount of data, integrate JSON data with Jansson, and create websocket services
+Build-Depends: libmicrohttpd, jansson
